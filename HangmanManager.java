@@ -1,16 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, Sneha Dharmalingam, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Sneha Dharmalingam 
- *  email address: snehadharma@utexas.edu
- *  UTEID: sd39967
- *  Section 5 digit ID: 50220
- *  Grader name: Karnika
- *  Number of slip days used on this assignment: 2
- */
-
 // add imports as necessary
 import java.util.Collections;
 import java.util.ArrayList;
